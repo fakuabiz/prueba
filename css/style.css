@@ -16,4 +16,37 @@
 
 .section {
     background-color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box1 {
+    background-color: gold;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.box1-p {
+    font-size: 2rem;
+    width: 80%;
+}
+
+.box1-list {
+    margin: auto;
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 1.8rem;
+}
+
+.box2 {
+
+}
+
+.box3 {
+
 }
