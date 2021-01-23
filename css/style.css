@@ -6,6 +6,15 @@
 
 .html {
     font-size: 62.5%;
+    background-color: deepskyblue;
+}
+
+.titulo-cabecera {
+    font-size: 5rem;
+    background-color: deepskyblue;
+    padding: 5px;
+    margin: 10px auto;
+    text-align: center;
 }
 
 .title {
@@ -17,3 +26,4 @@
 .section {
     background-color: red;
 }
+
