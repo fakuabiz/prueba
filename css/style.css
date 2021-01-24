@@ -53,11 +53,9 @@
 }
 
 .box2 {
-
+    width: 100%;
+    background-color: forestgreen;
+    text-align: center;
+    padding: 15px;
+    font-size: 1.5rem;
 }
-
-.box3 {
-
-}
-}
-
